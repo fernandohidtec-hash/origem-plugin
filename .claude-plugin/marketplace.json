@@ -11,7 +11,7 @@
       "name": "origem",
       "source": "./plugins/origem",
       "description": "Retoma obras de onde pararam, registra contribuições com prévia e só com pedido explícito, e mostra a genealogia das ideias entre conversas e entre IAs. Já traz a conexão com o servidor do Origem.",
-      "version": "0.2.0"
+      "version": "0.2.1"
     }
   ]
 }

@@ -6,7 +6,7 @@ description: >
   registrada no Origem, ou quando uma conversa tocar em uma obra que o usuário mantém
   no Origem. Define o protocolo obrigatório de leitura, resposta e gravação.
 metadata:
-  version: "0.2.0"
+  version: "0.2.1"
 ---
 
 # Protocolo de uso do Origem

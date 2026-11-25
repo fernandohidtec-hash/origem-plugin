@@ -6,7 +6,7 @@ description: >
   contribuição" ou pedir para transformar um trecho da conversa em contribuição de
   uma obra do Origem. Prepara a contribuição, mostra a prévia e só grava com pedido explícito.
 metadata:
-  version: "0.2.0"
+  version: "0.2.1"
 ---
 
 # Registrar contribuição no Origem

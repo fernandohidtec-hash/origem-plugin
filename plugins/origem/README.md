@@ -15,4 +15,4 @@ O plugin já traz a conexão com o servidor do Origem (https://lovables-origem-b
 
 ## Versão
 
-0.2.0 — teste privado, com conexão embutida.
+0.2.1 — retomada separa decisões, ideias e questões.

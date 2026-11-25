@@ -6,7 +6,7 @@ description: >
   "quem contribuiu com o quê" ou "quais obras estão ligadas". Mostra a origem,
   as derivações, as relações entre obras e os créditos registrados no Origem.
 metadata:
-  version: "0.2.0"
+  version: "0.2.1"
 ---
 
 # Genealogia de uma obra do Origem
