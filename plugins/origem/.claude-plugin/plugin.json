@@ -1,0 +1,16 @@
+{
+  "name": "origem",
+  "version": "0.2.0",
+  "description": "Origem — ideias que viram obras, com origem visível. Retoma obras de onde pararam, registra contribuições com prévia e só com pedido explícito, e mostra a genealogia das ideias entre conversas e entre IAs.",
+  "author": {
+    "name": "Fernando Vieira Silva"
+  },
+  "keywords": [
+    "origem",
+    "memória",
+    "obras",
+    "contribuições",
+    "proveniência",
+    "autoria"
+  ]
+}

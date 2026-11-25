@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "origem": {
+      "type": "http",
+      "url": "https://lovables-origem-bridge.lovable.app/mcp"
+    }
+  }
+}
